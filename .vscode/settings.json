@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Robotique.sln"
+    "dotnet.defaultSolution": "Projet-Robotique-M2.sln"
 }
